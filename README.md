@@ -14,12 +14,13 @@ This Power BI dashboard provides a comprehensive sales performance analysis for 
 
 
 📊 Key Metrics (KPIs)
-Metric          	    Value	       Description
-Operating Margin	    42%	         Profitability percentage
-Operating Profit    	$34K	       Total profit generated
-Price per Unit	      $45	         Average unit price
-Total Sales	          $900M        Overall revenue generated
-Units Sold	          2M	         Total number of units sold
+| Metric               | Value   | Description                |
+| -------------------- | ------- | -------------------------- |
+| **Operating Margin** | `42%`   | Profitability percentage   |
+| **Operating Profit** | `$34K`  | Total profit generated     |
+| **Price per Unit**   | `$45`   | Average unit price         |
+| **Total Sales**      | `$900M` | Overall revenue generated  |
+| **Units Sold**       | `2M`    | Total number of units sold |
 
 📈 Dashboard Visuals
 🔹 Total Sales by Month
